@@ -6,3 +6,5 @@ squash를 위한 커밋 3
 squash를 위한 커밋 4
 squash를 위한 커밋 5
 squash를 위한 커밋 6
+squash를 위한 커밋 7 (충돌상황)
+squash를 위한 커밋 8
